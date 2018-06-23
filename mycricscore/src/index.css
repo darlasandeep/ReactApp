@@ -1,0 +1,21 @@
+.idCard {
+  background-color: blue;
+  border: 2px solid black;
+  width: 250px;
+  padding: 5px;
+  color:yellow;
+  text-align: center;
+  margin: 4px 4px 4px 12px;
+  background-image: url("idbg.jpg ");
+}
+h4{
+  color:red;
+  text-align:center;
+  padding:1px;
+  margin:1px;
+}
+img{
+  width:150px;
+  margin:20px;
+  height:200px;
+}
